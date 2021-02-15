@@ -30,7 +30,7 @@ In 'app/javascript/stylesheets/application.scss' inject some Tailwind styles:
 @import "tailwindcss/utilities";
 ```
 ```
-npx tailwindcss init --full
+npx tailwindcss init
 
 ```
 In the 'app/javascript/packs/application.js' after 'import "channels"'
